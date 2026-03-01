@@ -20,4 +20,5 @@ public class Main {
         Estudiante estudiante = new Estudiante("Pedro", 21, 2.5);
         estudiante.mostrarInfo(); // Debería indicar REPROBADO
     }
+    
 }

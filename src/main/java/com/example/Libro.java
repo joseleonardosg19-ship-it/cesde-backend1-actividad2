@@ -30,4 +30,5 @@ public class Libro {
     public void mostrarDetalles() {
         System.out.println("Libro: " + titulo + " | Autor: " + autor + " | Páginas: " + paginas);
     }
+    
 }

@@ -64,5 +64,6 @@ public class Estudiante {
         } else {
             System.out.println("Estado: REPROBADO");
         }
+        
     }
 }
